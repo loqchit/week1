@@ -6,3 +6,12 @@ Dòng lệnh (di chuyển thư mục, phân quyền, grep/find/sed, biến môi 
 
 ## Tuần 2–4: SQL & PostgreSQL
 SELECT, WHERE, JOIN, GROUP BY, HAVING, truy vấn lồng, CTE, hàm cửa sổ cơ bản. Thiết kế bảng (kiểu dữ liệu, khóa, ràng buộc, index). EXPLAIN ANALYZE. PostGIS cơ bản (geometry, ST_Area, ST_Intersects, ST_Transform, SRID).
+
+## Tuần 3–5: Python theo chuẩn thực tế
+Môi trường ảo (venv/uv), requirements.txt. Type hint, docstring, tổ chức package/module. Test với pytest, format code với ruff/black. Xử lý lỗi và logging đúng cách.
+
+## Tuần 4–5: Dữ liệu không gian
+Vector/raster, định dạng GeoJSON/Shapefile/GeoTIFF/COG. Hệ tọa độ (CRS): EPSG:4326, EPSG:3857, UTM, VN-2000. Vì sao không tính diện tích/khoảng cách trực tiếp trên EPSG:4326. WMS/WMTS/WFS, tile server.
+
+## Bài tổng hợp cuối P0 (nộp tại G1)
+Mini-pipeline: đọc GeoJSON → nạp PostGIS → chuyển hệ tọa độ → tính diện tích → xuất CSV. Chạy bằng docker compose up, kèm README + test.
