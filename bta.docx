@@ -1,2 +1,5 @@
 ## Tuần 1: Git & làm việc nhóm
 Commit, branch, merge, rebase, pull request, xử lý conflict. Viết commit message rõ ràng, dùng .gitignore, không đưa mật khẩu/API key vào repo.
+
+## Tuần 1–2: Linux & Docker cơ bản
+Dòng lệnh (di chuyển thư mục, phân quyền, grep/find/sed, biến môi trường, đọc log). Docker: image/container, Dockerfile, docker compose, volume, network, ánh xạ cổng.
