@@ -3,3 +3,6 @@ Commit, branch, merge, rebase, pull request, xử lý conflict. Viết commit me
 
 ## Tuần 1–2: Linux & Docker cơ bản
 Dòng lệnh (di chuyển thư mục, phân quyền, grep/find/sed, biến môi trường, đọc log). Docker: image/container, Dockerfile, docker compose, volume, network, ánh xạ cổng.
+
+## Tuần 2–4: SQL & PostgreSQL
+SELECT, WHERE, JOIN, GROUP BY, HAVING, truy vấn lồng, CTE, hàm cửa sổ cơ bản. Thiết kế bảng (kiểu dữ liệu, khóa, ràng buộc, index). EXPLAIN ANALYZE. PostGIS cơ bản (geometry, ST_Area, ST_Intersects, ST_Transform, SRID).
