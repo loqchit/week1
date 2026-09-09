@@ -1,0 +1,20 @@
+Báo cáo tuần 1 
+
+##1. Đã làm
+- Cài đặt môi trường: Git, Docker, VS Code, DBeaver, Node.js LTS, Python 3.11
+- Tạo repo cá nhân để luyện Git, thực hành tạo nhánh và mở pull request
+  (link: https://github.com/loqchit/week1.git )
+
+##2. Đã học
+- Git & làm việc nhóm: khái niệm commit, branch, merge, rebase, pull request, cách xử lý conflict — ước tính ~3 giờ
+
+##3. Vướng mắc
+- Commit message chưa nêu rõ nội dung thay đổi.
+- Vẫn còn gặp khó khăn khi sử dụng .gitignore
+
+##4. Kế hoạch tuần tới
+- Duy trì thực hành Git: viết commit message rõ ràng (nêu rõ thay đổi + lý do), mô tả đầy đủ trong PR
+- Tự tạo và xử lý thử một merge conflict để hiểu quy trình resolve
+
+##5. Số giờ tự học tuần này: ~4 giờ
+
